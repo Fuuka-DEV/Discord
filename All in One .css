@@ -1,0 +1,20 @@
+@import url('https://discordstyles.github.io/HorizontalServerList/dist/HorizontalServerList.css');
+@import url('https://commandcrafterhd.gitlab.io/bates-discord-theme/css/hideUsers.css');
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
+
+:root {
+
+  --rs-small-spacing: 1px;
+  --rs-medium-spacing: 1px;
+  --rs-large-spacing: 1px;
+  --rs-small-width: 2.5px;
+  --rs-medium-width: 2.5px;
+  --rs-large-width: 2.5px;
+  --rs-avatar-shape: 25%;
+  --rs-online-color: #00FF00;
+  --rs-idle-color: #FFFF00;
+  --rs-dnd-color: #FF0000;
+  --rs-offline-color: #999999;
+  --rs-streaming-color: #8A00E6;
+  --rs-phone-visible: block;
+}
